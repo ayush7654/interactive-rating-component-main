@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+html{
+    padding: 10px;
+    background-color: hsl(216, 12%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: auto;
+    text-align: center;
+    width:310px;
+    border:0px solid;
+    height: 320px;
+    padding: 20px;
+   
+    margin-top: 160px;
+    border-radius: 20px;
+    font-family: 'Overpass', sans-serif;
+    
+    background-color: #171e28;
+    
+}
+h1{
+    color:white;
+    
+}
+#Rating{
+    background-color: #262f38;
+    color:hsl(25, 97%, 53%);
+    width: 225px;
+    padding:10px;
+    margin-left:33px;
+    margin-top: 20px;
+    border-radius: 40px;
+}
+p{
+    color: hsl(216, 12%, 54%);
+}
